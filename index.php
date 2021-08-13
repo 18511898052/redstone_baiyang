@@ -9,3 +9,4 @@ $obj->do();
 $obj->do();
 $obj->do();
 $obj->do();
+$obj->do();
