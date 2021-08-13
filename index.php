@@ -8,3 +8,4 @@ $obj = new Test();
 $obj->do();
 $obj->do();
 $obj->do();
+$obj->do();
