@@ -6,7 +6,3 @@ use Redstone\Baiyang\Test;
 
 $obj = new Test();
 $obj->do();
-$obj->do();
-$obj->do();
-$obj->do();
-$obj->do();
